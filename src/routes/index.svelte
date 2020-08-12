@@ -30,7 +30,3 @@ img{
     <img src="/img/board/board_exemplar_3_3.jpeg" alt="Example6">
 </div>
 
-<footer style="background-color: #81B29A, height: 70px;">
-    <p>Graphics Exemplars 2019<br>
-    &copy Harriet Eglinton 2020</p>
-</footer>

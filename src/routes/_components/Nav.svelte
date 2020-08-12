@@ -5,12 +5,12 @@
 <style>
   .navbar{
     background-color: #81B29A;
-    height: 70px;
+    height: 90px;
   }
 
   h1{
     font-size: 30px;
-    line-height: 70px;
+    line-height: 90px;
     margin-left: 30px;
     margin-right: 30px;
   }

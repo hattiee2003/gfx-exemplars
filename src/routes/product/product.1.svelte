@@ -36,6 +36,13 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    background-color: #3D405B !important;
+    color: white !important;
+  }
+
+  button:hover{
+    background-color: rgb(101, 106, 148) !important;
+    color: white !important;
   }
 </style>
 
