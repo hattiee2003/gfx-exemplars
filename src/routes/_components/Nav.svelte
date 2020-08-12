@@ -15,14 +15,16 @@
     margin-right: 30px;
   }
 
+  .navbar-item{
+    color: 	#4a4a4c !important;
+  }
+
   .navbar-brand:hover{
     background-color: #F4F1DE !important;
-    color: black !important;
   }
 
   #spacial:hover, #product:hover, #board:hover{
     background-color: #F4F1DE !important;
-    color: black !important;
   }
 
  
