@@ -20,7 +20,7 @@ footer{
   <div class="content has-text-centered">
     <p>
       <strong>Graphics Exemplars</strong> by Harriet Eglinton. The source code is licensed
-      <a href="http://opensource.org/licenses/mit-license.php">MIT</a>. The website content
+      <a href="http://opensource.org/licenses/mit-license.php" style="color: #3273dc !important;">MIT</a>. The website content
       is licensed by Rangi Ruru Girls School.
     </p>
   </div>
