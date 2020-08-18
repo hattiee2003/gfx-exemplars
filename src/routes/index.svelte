@@ -17,9 +17,9 @@ img{
 
 </style>
 
-<h1 class="title">Graphics Exemplars</h1>
+<h1 class="title">DVC/Graphics Exemplars</h1>
 
-<p>Welcomes to NCEA Level 1 Graphics Exemplars!</p>
+<p>Welcomes to NCEA Level 1 DVC/Graphics Exemplars!</p>
 
 <div id="photos">
     <img src="/img/spatial/spatial_exemplar_1_8.jpeg" alt="example1">

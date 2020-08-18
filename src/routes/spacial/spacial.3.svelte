@@ -47,7 +47,7 @@
   }
 </style>
 
-<h1 class="title">Spacial Design Example 3</h1>
+<h1 class="title">Spatial Design Example 3</h1>
 
 <img src={src[image]} alt="example3 photos" />
 

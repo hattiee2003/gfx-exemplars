@@ -31,7 +31,7 @@
 </style>
 
 <nav class="navbar">
-<h1>Level 1 Graphics Exemplars</h1>
+<h1>Level 1 DVC/Graphics Exemplars</h1>
   <div class="navbar-brand">
     <a class="navbar-item" class:is-active={segment === undefined} href=".">
       home
@@ -41,7 +41,7 @@
   <div class="navbar-menu">
     <div class="navbar-start">
       <div class="navbar-item has-dropdown is-hoverable">
-        <a href="/spacial/spacial" id="spacial" class="navbar-link">spacial</a>
+        <a href="/spacial/spacial" id="spacial" class="navbar-link">spatial</a>
 
         <div class="navbar-dropdown">
           <a href="/spacial/spacial.1" class="navbar-item">example 1</a>
